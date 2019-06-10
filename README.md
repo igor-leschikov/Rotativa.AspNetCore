@@ -1,6 +1,6 @@
 # Rotativa.AspNetCore
 
-Rotativa for Asp.Net Core.
+Rotativa for Asp.Net Core 3.0(prew).
 
 Docs are in the making. Should work almost exactly as Rotativa https://github.com/webgio/Rotativa
 
